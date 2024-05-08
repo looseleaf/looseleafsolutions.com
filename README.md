@@ -1,2 +1,23 @@
+[edit - looseleaf](https://github.com/looseleaf/looseleafsolutions.com/edit/master/README.md)
 # looseleafsolutions.com
-website
+
+- temp [tbd](tbd)
+  - temp [tbd](tbd)
+  - temp [tbd](tbd)
+- temp [tbd](tbd)
+  - temp [tbd](tbd)
+  - temp [tbd](tbd)
+- temp [tbd](tbd)
+- temp [tbd](tbd)
+- temp [tbd](tbd)
+- temp [tbd](tbd)
+- temp [tbd](tbd)
+- temp [tbd](tbd)
+- temp [tbd](tbd)
+- temp [tbd](tbd)
+- temp [tbd](tbd)
+- temp [tbd](tbd)
+- temp [tbd](tbd)
+- temp [tbd](tbd)
+- temp [tbd](tbd)
+- 
